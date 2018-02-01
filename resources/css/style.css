@@ -1,0 +1,18 @@
+body{
+  background-color: black;
+}
+.main_header{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.secondary_header {
+  font-family: Verdana;
+  font-size: 16px;
+  color: Aquamarine;
+  text-decoration: underline;
+  text-align: center;
+}
